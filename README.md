@@ -1,7 +1,7 @@
 # Portfolio
 My website portfolio
 
-## Screenshots:
+<!-- ## Screenshots:
 ### Computer View
 ![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
 
@@ -9,4 +9,4 @@ My website portfolio
 ![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
 
 ## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+* Mohd. Ali Solanki (https://youtube.com/AliSolanki) -->
